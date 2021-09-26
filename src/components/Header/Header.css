@@ -1,0 +1,14 @@
+.header-container {
+  background: linear-gradient(to left, #f1556c, #6658dd);
+  margin-top: 40px;
+  padding: 30px 0px;
+  border-radius: 15px;
+  color: #fff;
+  margin-bottom: 20px;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  margin-bottom: 25px;
+  text-transform: uppercase;
+}

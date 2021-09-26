@@ -1,0 +1,24 @@
+.ceo {
+  background: #8854d0;
+  padding: 10px;
+  margin: 40px 0 20px;
+  text-align: center;
+  border-radius: 5px;
+  color: #fff;
+}
+.added-content {
+  display: flex;
+  background: #ced6e0;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 4px;
+  padding: 10px;
+  margin: 10px 0px;
+}
+.added-img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  margin-right: 15px;
+  border-radius: 4px;
+}
