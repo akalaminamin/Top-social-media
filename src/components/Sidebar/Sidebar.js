@@ -12,7 +12,7 @@ function RightSide({ mediaLength, media }) {
         <div>
           <h5>Added Media: {mediaLength}</h5>
           <p>Total Revenue: ${totalRevenue.toFixed(2)} Billion</p>
-          <h4 className="ceo">CEO</h4>
+          <h4 className ="ceo">CEO</h4>
           {media.map((singleMedia) => {
             return (
               <div className="added-content">
